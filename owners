@@ -1,0 +1,5 @@
+owners = {
+     3103661330, -- Trendyy
+}
+
+return owners
